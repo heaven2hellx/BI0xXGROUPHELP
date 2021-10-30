@@ -86,7 +86,7 @@ buttons = [
     [
         InlineKeyboardButton(text="ᴀʙᴏᴜᴛ", callback_data="yone_"),
         InlineKeyboardButton(
-            text="ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{SUPPORT_CHAT}"
+            text="ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/BI0xX_NETWORK"
         ),
     ],
     [
@@ -356,8 +356,8 @@ def yone_about_callback(update, context):
                  \n❍ I can warn users until they reach max warns, with each predefined actions such as ban, mute, kick, etc.
                  \n❍ I have a note keeping system, blacklists, and even predetermined replies on certain keywords.
                  \n❍ I check for admins' permissions before executing any command and more stuffs
-                 \n\n_yone's licensed under the GNU General Public License v3.0_
-                 \nMy[�💮OWNER](https://t.me/BI0xX_NETWORK).
+                 \n\n_ɮɨ0 x✘'s licensed under the GNU General Public License v3.0_
+                 \nMy[ ✨OWNER✨ ](https://t.me/BI0xX_NETWORK).
                  \n\nIf you have any question about yone, let us know at .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
